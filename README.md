@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# GamaAcademy Challenge
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was make for a gama Academy challenge!
 
 ## Available Scripts
 
